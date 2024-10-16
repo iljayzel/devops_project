@@ -1,2 +1,2 @@
 # devops_project
-my home and work project
+my home and work projects
